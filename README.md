@@ -1,3 +1,9 @@
+This min project main dealt with implementing state management using redux in react project 
+
+
+To have Overview of the above project use the below Url
+https://reactreduxprojectbyanitha.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
